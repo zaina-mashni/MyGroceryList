@@ -1,0 +1,36 @@
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.btn-right {
+    right: 70px;
+    position: absolute;
+}
+.carousel-size{
+    height: 400px;
+}
+
+table,tr,th,td {
+  text-align: center;
+}
+.about-image-size{
+    height: 350px;
+    width: 550px;
+}
+.profile-image-size{
+    height: 150px !important;
+    width: 150px !important;
+}
+.hidden-btn{
+    padding: 0px 0px !important;
+    cursor: pointer;
+}
+.detail-img{
+    height: 350px !important;
+    width: 350px !important;
+}
+.detail-border{
+    border: solid 2px lightgray;
+}
